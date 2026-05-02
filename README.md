@@ -1,5 +1,5 @@
 ```
-SQL-playbook/
+SQL-learning-track/
 │
 ├── README.md
 │
@@ -26,7 +26,23 @@ SQL-playbook/
 │   └── primary_key_auto_increment.sql
 │
 ├── 04_queries/
-│   └── functions.sql
+│   ├── functions.sql
+│   ├── group_by_having.sql
+│   └── subqueries.sql
+│
+├── 05-joins/
+│   ├── inner_join.sql
+│   ├── joins.md
+│   ├── left_join.sql
+│   ├── right_join.sql
+│   ├── self_join.sql
+│   └── union_join.sql
+│
+├── 06-advanced/
+│   ├── indexes.sql
+│   ├── stored_procedures.sql
+│   ├── trigger.sql
+│   └── views.sql
 │
 └── Resources/
 ```
